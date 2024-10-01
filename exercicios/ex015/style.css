@@ -1,0 +1,17 @@
+
+body{
+    background-color: black;
+    font-family: monospace;
+    font-size: 20px;
+}
+h1{
+    color: aliceblue;
+    background-color: chartreuse;
+}
+h2{
+    color: brown;
+}
+p{
+    text-align: justify;
+    color: aliceblue;
+}
